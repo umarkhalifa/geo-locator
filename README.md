@@ -1,4 +1,4 @@
-# GEo Locator
+# Geo Locator
 
 Geo Locator
 This is a Flutter project  built using Clean Architecture principles. Clean Architecture is an architectural approach that promotes separation of concerns, making your codebase more maintainable, testable, and scalable.
