@@ -20,6 +20,7 @@ final routeProvider = Provider((ref) {
       if (isLoggedIn && state.matchedLocation == '/login') return '/home';
       return null;
     },
+    initialLocation: '/login',
     routes: [
       GoRoute(
         path: '/',
